@@ -1,3 +1,5 @@
+//Author: Nicole C.
+
 package homework_week10;
 
 import org.openqa.selenium.By;
@@ -8,7 +10,7 @@ public class expedia_vacationpkg {
 
 WebDriver driver = null;
 	
-	public void fillDemoqaForm() throws Throwable {
+	public void searchVacationPKG() throws Throwable {
 		
 		driver = new ChromeDriver();
 		
